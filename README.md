@@ -11,7 +11,7 @@
 ```javascript
 const thai = {
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Angular, Ionic, Spring Boot, Rasa, Unity],
+  tools: [React, Angular, Ionic, Spring Boot, Rasa, Unity, MySQL, PostgreSQL],
   architecture: ["microservices", "mvc"],
 };
 ```
