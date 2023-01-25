@@ -9,7 +9,7 @@
 ### <img src="https://media.giphy.com/media/l0MYGlG4YLB51v0bu/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const thai = {
+const chris = {
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Angular, Ionic, Spring Boot, Rasa, Unity, MySQL, PostgreSQL],
   architecture: ["microservices", "mvc"],
